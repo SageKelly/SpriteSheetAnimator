@@ -1,0 +1,27 @@
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\SpriteSheet Animator Icon.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.xnb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.spritefont
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.png
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\SpriteSheetAnimator.exe
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\SpriteSheetAnimator.pdb
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.csprojResolveAssemblyReference.cache
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.exe
+C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.pdb

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Assets\Font.spritefont</Source>
+      <Name>Assets\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.xnb</Output>
+      <Time>2015-09-21T17:15:20.924692-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\HighlightBar.png</Source>
+      <Name>Assets\HighlightBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.xnb</Output>
+      <Time>2015-09-21T17:15:20.9402523-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Down Arrow.png</Source>
+      <Name>Assets\Down Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.xnb</Output>
+      <Time>2015-09-21T17:17:03.2086581-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\FolderBar.png</Source>
+      <Name>Assets\FolderBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.xnb</Output>
+      <Time>2015-09-21T17:17:32.340224-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Left Arrow.png</Source>
+      <Name>Assets\Left Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.xnb</Output>
+      <Time>2015-09-21T17:17:32.3558529-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Practice Head.png</Source>
+      <Name>Assets\Practice Head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.xnb</Output>
+      <Time>2015-09-21T17:17:32.3558529-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Right Arrow.png</Source>
+      <Name>Assets\Right Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.xnb</Output>
+      <Time>2015-09-21T17:17:32.4027272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Selection Border.png</Source>
+      <Name>Assets\Selection Border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.xnb</Output>
+      <Time>2015-09-21T17:17:32.4027272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Up Arrow.png</Source>
+      <Name>Assets\Up Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.xnb</Output>
+      <Time>2015-09-21T17:17:32.4183507-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\White BG.png</Source>
+      <Name>Assets\White BG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.xnb</Output>
+      <Time>2015-09-21T17:17:32.4183507-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{DD8F5648-8FBA-45CF-A094-1E5E4B335B5D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimatorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-03T05:29:01.0511627-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

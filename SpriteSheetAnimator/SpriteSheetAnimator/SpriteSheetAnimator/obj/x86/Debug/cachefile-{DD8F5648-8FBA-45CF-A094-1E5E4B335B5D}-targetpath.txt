@@ -1,0 +1,20 @@
+Content\Assets\Font.xnb
+Content\Assets\HighlightBar.xnb
+Content\Assets\Down Arrow.xnb
+Content\Assets\FolderBar.xnb
+Content\Assets\Left Arrow.xnb
+Content\Assets\Practice Head.xnb
+Content\Assets\Right Arrow.xnb
+Content\Assets\Selection Border.xnb
+Content\Assets\Up Arrow.xnb
+Content\Assets\White BG.xnb
+Content\Assets\Font.spritefont
+Content\Assets\HighlightBar.png
+Content\Assets\Down Arrow.png
+Content\Assets\FolderBar.png
+Content\Assets\Left Arrow.png
+Content\Assets\Practice Head.png
+Content\Assets\Right Arrow.png
+Content\Assets\Selection Border.png
+Content\Assets\Up Arrow.png
+Content\Assets\White BG.png
