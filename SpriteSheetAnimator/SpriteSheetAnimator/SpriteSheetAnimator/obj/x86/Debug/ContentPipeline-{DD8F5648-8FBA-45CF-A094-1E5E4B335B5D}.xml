@@ -7,7 +7,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.xnb</Output>
       <Time>2015-09-21T17:15:20.924692-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.xnb</Output>
       <Time>2015-09-21T17:15:20.9402523-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.xnb</Output>
       <Time>2015-09-21T17:17:03.2086581-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.xnb</Output>
       <Time>2015-09-21T17:17:32.340224-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.xnb</Output>
       <Time>2015-09-21T17:17:32.3558529-04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.xnb</Output>
       <Time>2015-09-21T17:17:32.3558529-04:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.xnb</Output>
       <Time>2015-09-21T17:17:32.4027272-04:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.xnb</Output>
       <Time>2015-09-21T17:17:32.4027272-04:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.xnb</Output>
       <Time>2015-09-21T17:17:32.4183507-04:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.xnb</Output>
+      <Output>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.xnb</Output>
       <Time>2015-09-21T17:17:32.4183507-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -98,10 +98,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimatorContent\</RootDirectory>
-      <LoggerRootDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimatorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -130,7 +130,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-12-03T05:29:01.0511627-05:00</Value>
+        <Value>2016-07-24T17:47:50.07834-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

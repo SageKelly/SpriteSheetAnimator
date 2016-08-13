@@ -25,3 +25,30 @@ C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\Spr
 C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.exe
 C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.pdb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\SpriteSheet Animator Icon.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.xnb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Font.spritefont
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\HighlightBar.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Down Arrow.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\FolderBar.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Left Arrow.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Practice Head.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Right Arrow.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Selection Border.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\Up Arrow.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\Content\Assets\White BG.png
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\SpriteSheetAnimator.exe
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\bin\x86\Debug\SpriteSheetAnimator.pdb
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.csprojResolveAssemblyReference.cache
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.exe
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\obj\x86\Debug\SpriteSheetAnimator.pdb

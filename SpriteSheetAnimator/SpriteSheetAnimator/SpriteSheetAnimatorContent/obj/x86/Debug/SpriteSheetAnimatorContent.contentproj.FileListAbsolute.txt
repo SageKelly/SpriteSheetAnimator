@@ -1,1 +1,2 @@
 C:\PersonalProjects\PersonalProjects\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimatorContent\obj\x86\Debug\SpriteSheetAnimatorContent.contentprojResolveAssemblyReference.cache
+C:\GitHub\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimator\SpriteSheetAnimatorContent\obj\x86\Debug\SpriteSheetAnimatorContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Program Files (x86)
+C:\Program Files (x86)\Steam
+C:\Program Files (x86)\Steam\SteamApps
+C:\Program Files (x86)\Steam\SteamApps\common
+C:\Program Files (x86)\Steam\SteamApps\common\Geneforge
